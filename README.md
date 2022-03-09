@@ -1,6 +1,6 @@
 # Name Alignment
 
-[![Name Alignment by Nomer](https://github.com/globalbioticinteractions/name-alignment-template/actions/workflows/align.yml/badge.svg)](https://github.com/globalbioticinteractions/name-alignment-template/actions/workflows/align.yml)
+[![Name Alignment by Nomer](https://github.com/qgroom/occupancyInBelgium/actions/workflows/align.yml/badge.svg)](https://github.com/qgroom/occupancyInBelgium/actions/workflows/align.yml)
 
 Aligning taxonomic names is a common task in biodiversity informatics. 
 
